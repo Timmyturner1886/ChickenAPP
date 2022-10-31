@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KUKUAPP2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">The healthiest chicken breeds tend to be some of the most popular breeds thanks to their hardiness. Some of these most healthy chicken breeds that have stood the test of time are called heritage breeds. (source)
+
+Heritage chicken breeds are known for their long lifespans living outdoors and their ability to adapt to different climates.
+
+Here are 13 of the healthiest chicken breeds, many of which are heritage breeds that have truly stood the test of time.</string>
+    <string name="breeds"></string>
+</resources>
